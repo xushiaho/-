@@ -3,6 +3,8 @@ import java.io.Serializable;
 import java.util.Date;
 public class SysDept implements Serializable{
 	private static final long serialVersionUID = -5259265803332215029L;
+	//加了注释
+	//加了注释
 	private Integer id;
 	private String name;
 	private Integer parentId;
