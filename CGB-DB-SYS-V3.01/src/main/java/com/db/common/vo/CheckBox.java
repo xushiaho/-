@@ -8,6 +8,7 @@ import java.io.Serializable;
  * 1)值类型不控
  * 2)可读性不好(打开map源码不知道其内部存储了什么)
  * 
+ * 
  */
 public class CheckBox implements Serializable{
 	private static final long serialVersionUID = 5127226184862470973L;
